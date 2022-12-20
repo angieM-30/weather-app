@@ -7,8 +7,11 @@ body {
     font-family: 'Arialle', sans-serif;
     background: #222;
     background-image: url("https://unsplash.com/collections/869019/forecast" );
+    background-size: cover;
+    background-attachment: fixed;
     font-size: 120%;
 }
+
 .card {
     background: #000000d8;
     color: white;
