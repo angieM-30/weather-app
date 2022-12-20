@@ -1,1 +1,0 @@
-// js here from openweathermap api
